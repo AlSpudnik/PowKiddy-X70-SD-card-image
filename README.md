@@ -1,5 +1,6 @@
+### Створення образу SD картки для консолі X70
 
-### SD card image:
+#### SD card image:
 
 Розпакувати архів "SD card image.zip" і помістити папки .emu_cfg, game, music, photo, video на SD картку.
 
@@ -8,7 +9,7 @@
 - Всі ігри відповідно консолі: game\
 - Збереження ігрового прогресу знаходиться: .emu_cfg\game\
 
-### Додавання назв ігор у списки меню:
+#### Додавання назв ігор у списки меню:
 
 1. Відкрити текстовим редактором файл game\ .date\xxx.js відповідно емулятора консолі
 2. Зробити бекап файлу .js
@@ -17,7 +18,7 @@
 
   {"soupin":"yakitori musume - sugo ude hanjouki","child":false,"title":"Yakitori Musume - Sugo Ude Hanjouki","url":"/mnt/card/game/ps/Yakitori Musume - Sugo Ude Hanjouki/Yakitori Musume - Sugo Ude Hanjouki.bin"},
   
-### Додавання прев'ю зображення гри у списки меню:
+#### Додавання прев'ю зображення гри у списки меню:
 
 1. Розмістити зображення в форматі .png у папку "images" потрібної консолі
 2. Назвати файл зображення так само, як назва гри у файлі .js

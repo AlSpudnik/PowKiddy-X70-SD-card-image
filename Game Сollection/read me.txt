@@ -1,0 +1,1 @@
+Game files must be placed on the SD card image in the folder corresponding to the emulator.

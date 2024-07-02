@@ -1,5 +1,7 @@
 ### Створення образу SD картки для консолі X70
 
+<img src="https://raw.githubusercontent.com/AlSpudnik/PowKiddy-X70 /main/X70_01.jpg" width="500" alt="">
+
 #### SD card image:
 
 Розпакувати архів "SD card image.zip" і помістити папки .emu_cfg, game, music, photo, video на SD картку.

@@ -13,5 +13,20 @@
 3. Підключитись мікро USB порту (той, що біля TYPE-C).
 4. Перевести роботу консолі в режим ADFU: тиснути кнопку "Down" на D-pad (хрестик).
 5. ACTIONS Pad_Product Tool повинен автоматично знайти пристрій підключений до USB і підсвітиться кнопка "Download Firmware". Все що потрібно зробити - це натиснути "Download Firmware" і чекати завершення завантаження.
+---------------------------
+Powkiddy x70 system update:
+1. Turn off the console and remove the SD memory card.
+2. Place the "update.zip" file in the root of the SD card (only from trusted sources).
+3. In order for the Powkiddy x70 console to find the "update.zip" file and not erase game saves, you need to turn on the console without the SD card, go to the settings, select "Reset Setting".
+4. Check if the console has enough battery charge for the next update and turn off the console.
+5. Insert the SD card into the console and turn it on. The device will boot and immediately offer to update the system.
+6. Wait for the update to finish and when the console boots. Now you can go to the settings and see the update version.
+
+Restoring the system after a clumsy update (if the console does not boot):
+1. Install ACTIONS_Pad_Product_Tool_V1.09.02 on your PC.
+2. Run the program and open file: atm7051_game_hdmi_ddr128_1024600_032_x70_032V1_KHXr_V2.0_230822.fw
+3. Connect the micro USB port (near TYPE-C) in your PC.
+4. Switch the console to ADFU mode: press the "Down" button on the D-pad (cross).
+5. ACTIONS Pad_Product Tool should automatically find the device connected to the USB and the "Download Firmware" button will light up. All you need to do is click "Download Firmware" and wait for the download to complete.
 
 https://github.com/AlSpudnik

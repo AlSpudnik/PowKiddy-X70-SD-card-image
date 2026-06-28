@@ -4,7 +4,7 @@
 
 #### SD card image:
 
-Розпакувати архів "SD card image.zip" і помістити на SD картку папки з файлами:
+Розпакувати архів "content of the SD card.zip" і помістити на SD картку папки з файлами:
 
 - .emu_cfg  (!прихована!)
 - game

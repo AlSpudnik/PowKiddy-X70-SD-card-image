@@ -31,5 +31,6 @@
 1. Розмістити зображення в форматі .png у папку "images" потрібної консолі
 2. Назвати файл зображення так само, як назва гри у файлі game/.date/XXX.js
 - приклад шляху для консолі емулятор PS1:
-game/ps/images/Yakitori Musume - Sugo Ude Hanjouki.png
+  
+ game/ps/images/Yakitori Musume - Sugo Ude Hanjouki.png
 
